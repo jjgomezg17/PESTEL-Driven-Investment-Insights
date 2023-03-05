@@ -28,3 +28,18 @@
 ### The communication between the various components of the project likely involves API calls, such as the Bing Search V7 API, to retrieve and process data from various sources. The data is then processed using Python programming language, and the results are visualized using Tableau.
 
 ### As the only person working on this project, I have established communication protocols with myself to ensure that I can complete the project on time. I have set goals and deadlines for each phase of the project and I have been tracking my progress regularly. Whenever I face any challenges or have questions, I document them and find solutions by conducting research and consulting relevant resources. Additionally, I prioritize my tasks based on their urgency and importance and I make sure to take breaks and maintain a healthy work-life balance to avoid burnout. Through these protocols, I am confident that I can successfully complete the project within the given timeframe.
+
+## Steps to complete this analysis
+
+### 1. Extract the GDP (current US$) for 2021 for each country from the World Bank database and keep the top 25 countries.
+### 2. Evaluate the GDP growth (annual %) of the last 6 years from 2021 for all the countries and keep the top 25.
+### 3. Merge both tables and keep the countries that are in both.
+### 4. Obtain Ease of doing business score (0 = lowest performance to 100 = best performance) from the World Bank database and keep only the countries with a score greater than 77.
+### 5. Merge the databases again to only keep the top 3 countries evaluating these three characteristics.
+### 6. Choose all the industries that currently exist according to the World Bank.
+### 7. Create a database that makes all the combinations between the chosen countries, the existing industries and the categories to study PESTEL (political, economic, social, technological, environmental and legal).
+### 8. Use the Bing API to get the most relevant and current news related to the country, industry and category to study.
+### 9. Use a database with headlines categorized between positive and negative to train a machine learning model to be able to categorize the headlines of the extracted news.
+### 10. Categorize the news and calculate an overall health score for each aspect of PESTEL for each industry and each country.
+### 11. Use Tableau to display the results in graphs and a matrix that shows the industries by country with the score obtained in each aspect of the PESTEL and a general score.
+
