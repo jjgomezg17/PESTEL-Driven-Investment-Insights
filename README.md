@@ -1,6 +1,6 @@
 # Final-Project
 
-## [Results of the Project](https://public.tableau.com/views/Final-Project_16780679054800/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
+### [Results of the Project](https://public.tableau.com/views/Final-Project_16780679054800/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Selected topic
 
