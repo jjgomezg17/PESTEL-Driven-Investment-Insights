@@ -101,6 +101,7 @@
 
 ##### By analyzing the sentiment of the news articles related to each country and industry, we can evaluate the overall impact of these factors on the industry in that country. The sentiment is then averaged for each section of the PESTEL analysis (political, economic, social, technological, environmental, and legal) to create an overall score.
 
-![3](https://github.com/jjgomezg17/Final-Project/blob/main/Images/3.png)
 
 ##### This overall score helps to identify which countries and industries are more favorable for business and investment opportunities, based on the PESTEL factors that affect them.
+
+![3](https://github.com/jjgomezg17/Final-Project/blob/main/Images/3.png)
