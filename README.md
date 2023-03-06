@@ -75,7 +75,7 @@
 
 #### As the sole member of this project, I will communicate with myself through a project management tool (e.g., Trello) to keep track of tasks, deadlines, and progress. I will also maintain a daily log to record my thoughts, observations, and insights as I work on the project.
 
-### As the only person working on this project, I have established communication protocols with myself to ensure that I can complete the project on time. I have set goals and deadlines for each phase of the project and I have been tracking my progress regularly. Whenever I face any challenges or have questions, I document them and find solutions by conducting research and consulting relevant resources. Additionally, I prioritize my tasks based on their urgency and importance and I make sure to take breaks and maintain a healthy work-life balance to avoid burnout. Through these protocols, I am confident that I can successfully complete the project within the given timeframe.
+#### As the only person working on this project, I have established communication protocols with myself to ensure that I can complete the project on time. I have set goals and deadlines for each phase of the project and I have been tracking my progress regularly. Whenever I face any challenges or have questions, I document them and find solutions by conducting research and consulting relevant resources. Additionally, I prioritize my tasks based on their urgency and importance and I make sure to take breaks and maintain a healthy work-life balance to avoid burnout. Through these protocols, I am confident that I can successfully complete the project within the given timeframe.
 
 ## Conclusion:
 
