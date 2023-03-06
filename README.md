@@ -67,6 +67,7 @@
 #### 8. Use the Bing API to get the most relevant and current news related to the country, industry and category to study.
 #### 9. Use a database with headlines categorized between positive and negative to train a machine learning model to be able to categorize the headlines of the extracted news.
 #### 10. Categorize the news and calculate an overall health score for each aspect of PESTEL for each industry and each country.
+#### 11. Send the output of the data processing in python to the database to be compiled in Tableu.
 #### 11. Use Tableau to display the results in graphs and a matrix that shows the industries by country with the score obtained in each aspect of the PESTEL and a general score.
 
 ## Communication Protocols:
@@ -82,6 +83,14 @@
 #### By analyzing news articles and economic data, we aim to provide insights and recommendations that can inform investment decisions and help achieve better returns. The project will leverage machine learning techniques and domain knowledge to identify trends and patterns that might not be visible through traditional methods of analysis.
 
 ## Results:
+
+##### Before starting the visualization of the processed data, these were stored in a database, in a one-to-one and one-to-many relationship. Subsequently they were sent to Tableu and here you can see their visualization before starting to visualize them.
+
+![4](https://github.com/jjgomezg17/Final-Project/blob/main/Images/4.png)
+
+![5](https://github.com/jjgomezg17/Final-Project/blob/main/Images/5.png)
+
+![6](https://github.com/jjgomezg17/Final-Project/blob/main/Images/6.png)
 
 #### Selection of countries that belong to the top 25 of GDP and its growth and that are countries where it is easy to do business
 
