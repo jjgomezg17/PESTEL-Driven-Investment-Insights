@@ -87,14 +87,20 @@
 
 ##### This is a selection process of countries that fulfill certain criteria. Specifically, the selected countries must be among the top 25 in terms of GDP and GDP growth. Additionally, they must be countries where it is easy to do business. This selection process aims to identify countries that have a strong economic performance and are also conducive to business development.
 
+![1](https://github.com/jjgomezg17/Final-Project/edit/main/Images/1.png)
+
 #### PESTEL Analysis by Country and Sector
 
 ##### This is a project that involves conducting a PESTEL analysis for different countries and sectors. PESTEL stands for Political, Economic, Social, Technological, Environmental, and Legal factors that can affect the business environment of a country or a sector. The analysis will be conducted on various countries and sectors, and the sentiment of the news articles will be added to the analysis to see the score by each country and sector on each section of the analysis. The aim is to provide insights into the business environment of each country and sector and identify areas of opportunity or potential risk.
+
+![2](https://github.com/jjgomezg17/Final-Project/edit/main/Images/1.png)
 
 #### Overall Score based on PESTEL Analysis, by Industry and Country
 
 ##### This analysis aims to provide an overall score based on the PESTEL analysis for each country and industry. PESTEL analysis is a framework that helps identify the political, economic, social, technological, environmental, and legal factors that affect an industry or country.
 
 ##### By analyzing the sentiment of the news articles related to each country and industry, we can evaluate the overall impact of these factors on the industry in that country. The sentiment is then averaged for each section of the PESTEL analysis (political, economic, social, technological, environmental, and legal) to create an overall score.
+
+![3](https://github.com/jjgomezg17/Final-Project/edit/main/Images/1.png)
 
 ##### This overall score helps to identify which countries and industries are more favorable for business and investment opportunities, based on the PESTEL factors that affect them.
