@@ -1,5 +1,7 @@
 # Final-Project
 
+## [Results of the Project](https://public.tableau.com/views/Final-Project_16780679054800/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Selected topic
 
 ### The main topic of the project is to create a tool that evaluates the macroeconomic conditions of different countries and industries, by analyzing news articles through PESTEL analysis, to identify potential opportunities for entrepreneurship.
