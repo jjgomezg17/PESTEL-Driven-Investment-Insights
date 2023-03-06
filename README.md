@@ -4,7 +4,7 @@
 
 ## Status
 
-#### The current status of the project is that it is in the minimum viable product stage, but it is working perfectly.
+#### The current status of the project is minimum viable product stage, but it is working perfectly.
 
 #### Although the project is still in its early stages, it is working perfectly and meets all the initial requirements. I am continuing to refine and improve the analysis as I gather more data and feedback. I am confident that the final product will provide valuable insights and meet the project objectives.
 
