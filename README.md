@@ -27,8 +27,17 @@
 ### The project will use data from multiple sources, including:
 
 #### World Bank API: to obtain economic indicators such as GDP growth, ease of doing business, and industry size for different countries and sectors.
+
+#### https://documents.worldbank.org/en/publication/documents-reports/api
+
 #### Bing News Search API: to retrieve news articles related to specific countries and sectors.
+
+#### https://www.microsoft.com/en-us/bing/apis/bing-news-search-api
+
 #### CSV Trained Data: Twitter trained data to use for the machine learning
+
+#### http://help.sentiment140.com/for-students/
+
 #### Excel file: containing a sample dataset of news articles, their sentiment score, and their corresponding country and sector.
 
 ## Description of the sources of data
@@ -65,10 +74,11 @@
 #### 6. Choose all the industries that currently exist according to the World Bank.
 #### 7. Create a database that makes all the combinations between the chosen countries, the existing industries and the categories to study PESTEL (political, economic, social, technological, environmental and legal).
 #### 8. Use the Bing API to get the most relevant and current news related to the country, industry and category to study.
-#### 9. Use a database with headlines categorized between positive and negative to train a machine learning model to be able to categorize the headlines of the extracted news.
-#### 10. Categorize the news and calculate an overall health score for each aspect of PESTEL for each industry and each country.
-#### 11. Send the output of the data processing in python to the database to be compiled in Tableu.
-#### 11. Use Tableau to display the results in graphs and a matrix that shows the industries by country with the score obtained in each aspect of the PESTEL and a general score.
+#### 9. Use a dataframse with headlines categorized between positive and negative to train a machine learning model to be able to categorize the headlines of the extracted news.
+#### 10. Export the trained data and the dataframe with the news to the database for the project on pdAdmin using Python and then Import them back to use them on the Machine Learning Model.
+#### 11. Categorize the news and calculate an overall health score for each aspect of PESTEL for each industry and each country.
+#### 12. Send the output of the data processing in python to the database to be compiled in Tableu.
+#### 13. Use Tableau to display the results in graphs and a matrix that shows the industries by country with the score obtained in each aspect of the PESTEL and a general score.
 
 ## Communication Protocols:
 
