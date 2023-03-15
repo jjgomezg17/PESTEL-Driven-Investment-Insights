@@ -1,233 +1,233 @@
 country,sector,sentiment
-Denmark,Activities auxiliary to financial services and ins,-0.7666666666666667
+Denmark,Activities auxiliary to financial services and ins,-0.6666666666666666
 Denmark,Advertising and market research,0.6949152542372882
-Denmark,Agricultural crops and livestock,0.05084745762711865
-Denmark,Air transport,0.3333333333333333
+Denmark,Agricultural crops and livestock,0.01694915254237288
+Denmark,Air transport,0.43333333333333335
 Denmark,"Architectural and engineering activities, and rela",0.8333333333333334
-Denmark,Basic metals and fabricated metal products,0.23333333333333334
-Denmark,Building construction,0.1
-Denmark,Chemicals and chemical products,-0.06666666666666667
+Denmark,Basic metals and fabricated metal products,0.2
+Denmark,Building construction,0.16666666666666666
+Denmark,Chemicals and chemical products,-0.03333333333333333
 Denmark,Coal and lignite mining,0.06666666666666667
-Denmark,"Computer programming, consultancy, and related act",-0.16666666666666666
-Denmark,Domestic and household services,0.2
+Denmark,"Computer programming, consultancy, and related act",0.1
+Denmark,Domestic and household services,0.1
 Denmark,Education,0.3559322033898305
-Denmark,"Electricity, gas and water supply",0.06666666666666667
-Denmark,Energy and water utilities,0.2542372881355932
-Denmark,Financial and insurance activities,-0.26666666666666666
-Denmark,Fishing and aquaculture,0.6
-Denmark,"Food, beverages, and tobacco",0.7333333333333333
-Denmark,Forestry and logging,-0.3333333333333333
-Denmark,Health and social work,0.4666666666666667
-Denmark,Heavy and civil engineering construction,-0.6333333333333333
+Denmark,"Electricity, gas and water supply",0.1
+Denmark,Energy and water utilities,-0.01694915254237288
+Denmark,Financial and insurance activities,-0.1
+Denmark,Fishing and aquaculture,0.5333333333333333
+Denmark,"Food, beverages, and tobacco",0.5666666666666667
+Denmark,Forestry and logging,-0.3
+Denmark,Health and social work,0.6
+Denmark,Heavy and civil engineering construction,-0.7333333333333333
 Denmark,Human health activities,0.26666666666666666
 Denmark,Information and communication,0.3898305084745763
-Denmark,Legal and accounting and management activities,0.3333333333333333
-Denmark,Machinery and equipment,0.16666666666666666
-Denmark,Management consultancy activities,0.7333333333333333
-Denmark,Membership organizations,0.4666666666666667
-Denmark,Metal ores and non-metallic mining and quarrying,0.5
-Denmark,Monetary intermediation,-0.3
+Denmark,Legal and accounting and management activities,0.06666666666666667
+Denmark,Machinery and equipment,0.3
+Denmark,Management consultancy activities,0.7
+Denmark,Membership organizations,0.43333333333333335
+Denmark,Metal ores and non-metallic mining and quarrying,0.03333333333333333
+Denmark,Monetary intermediation,-0.16666666666666666
 Denmark,"Motion picture, video, and television program prod",0.9666666666666667
-Denmark,Non-metallic mineral products,0.43333333333333335
+Denmark,Non-metallic mineral products,0.26666666666666666
 Denmark,Oil and gas extraction,-0.12280701754385964
-Denmark,"Other community, social, and personal services",0.559322033898305
+Denmark,"Other community, social, and personal services",0.5254237288135594
 Denmark,Other manufacturing,0.16666666666666666
-Denmark,Other personal service activities,0.2
-Denmark,"Other professional, scientific, and technical acti",0.5
+Denmark,Other personal service activities,0.23333333333333334
+Denmark,"Other professional, scientific, and technical acti",0.5333333333333333
 Denmark,Pharmaceuticals,0.3
-Denmark,Postal and courier activities,-0.5333333333333333
-Denmark,"Professional, scientific, and technical activities",0.43333333333333335
-Denmark,Public administration and defense; compulsory soci,-0.5517241379310345
-Denmark,"Public administration and defense; education, heal",0.559322033898305
-Denmark,Public administration and defense; financial and f,0.03333333333333333
-Denmark,Public administration and defense; other social se,0.5333333333333333
-Denmark,Publishing activities,0.4576271186440678
-Denmark,Railways,-0.3333333333333333
+Denmark,Postal and courier activities,-0.4
+Denmark,"Professional, scientific, and technical activities",0.3333333333333333
+Denmark,Public administration and defense; compulsory soci,-0.3448275862068966
+Denmark,"Public administration and defense; education, heal",0.5932203389830508
+Denmark,Public administration and defense; financial and f,0.26666666666666666
+Denmark,Public administration and defense; other social se,0.6333333333333333
+Denmark,Publishing activities,0.3559322033898305
+Denmark,Railways,-0.13333333333333333
 Denmark,Real estate activities,0.26666666666666666
-Denmark,Repair of computers and personal and household goo,-0.15254237288135594
-Denmark,Residential care activities,0.6
+Denmark,Repair of computers and personal and household goo,-0.5254237288135594
+Denmark,Residential care activities,0.5666666666666667
 Denmark,"Retail trade, except of motor vehicles and motorcy",0.5333333333333333
-Denmark,Road transport,0.36666666666666664
+Denmark,Road transport,0.3333333333333333
 Denmark,Rubber and plastics products,0.2
-Denmark,Social work activities without accommodation,-0.3333333333333333
-Denmark,Telecommunications,0.2
+Denmark,Social work activities without accommodation,-0.13333333333333333
+Denmark,Telecommunications,0.03333333333333333
 Denmark,Textiles and clothing,0.43333333333333335
-Denmark,Transport and storage,0.0
-Denmark,Transport equipment,0.26666666666666666
-Denmark,Water transport,0.06666666666666667
+Denmark,Transport and storage,0.06666666666666667
+Denmark,Transport equipment,0.3
+Denmark,Water transport,0.2
 Denmark,Wholesale and retail trade and repair of motor veh,0.6
-Denmark,"Wholesale trade, except of motor vehicles and moto",0.6333333333333333
-"Korea, Rep.",Activities auxiliary to financial services and ins,-0.5333333333333333
-"Korea, Rep.",Advertising and market research,0.4576271186440678
-"Korea, Rep.",Agricultural crops and livestock,-0.3559322033898305
-"Korea, Rep.",Air transport,0.11864406779661017
-"Korea, Rep.","Architectural and engineering activities, and rela",0.9333333333333333
-"Korea, Rep.",Basic metals and fabricated metal products,-0.16666666666666666
-"Korea, Rep.",Building construction,-0.26666666666666666
-"Korea, Rep.",Chemicals and chemical products,0.1
+Denmark,"Wholesale trade, except of motor vehicles and moto",0.7
+"Korea, Rep.",Activities auxiliary to financial services and ins,-0.4666666666666667
+"Korea, Rep.",Advertising and market research,0.3559322033898305
+"Korea, Rep.",Agricultural crops and livestock,-0.288135593220339
+"Korea, Rep.",Air transport,0.15254237288135594
+"Korea, Rep.","Architectural and engineering activities, and rela",0.9666666666666667
+"Korea, Rep.",Basic metals and fabricated metal products,-0.1
+"Korea, Rep.",Building construction,-0.16666666666666666
+"Korea, Rep.",Chemicals and chemical products,-0.26666666666666666
 "Korea, Rep.",Coal and lignite mining,-0.3333333333333333
-"Korea, Rep.","Computer programming, consultancy, and related act",-0.13333333333333333
-"Korea, Rep.",Domestic and household services,-0.423728813559322
+"Korea, Rep.","Computer programming, consultancy, and related act",0.13333333333333333
+"Korea, Rep.",Domestic and household services,-0.1864406779661017
 "Korea, Rep.",Education,0.2
-"Korea, Rep.","Electricity, gas and water supply",-0.5
-"Korea, Rep.",Energy and water utilities,-0.06666666666666667
-"Korea, Rep.",Financial and insurance activities,-0.3333333333333333
-"Korea, Rep.",Fishing and aquaculture,-0.4666666666666667
-"Korea, Rep.","Food, beverages, and tobacco",0.5
-"Korea, Rep.",Forestry and logging,-0.26666666666666666
-"Korea, Rep.",Health and social work,-0.06666666666666667
-"Korea, Rep.",Heavy and civil engineering construction,-0.5666666666666667
-"Korea, Rep.",Human health activities,-0.0847457627118644
-"Korea, Rep.",Information and communication,0.36666666666666664
-"Korea, Rep.",Legal and accounting and management activities,-0.26666666666666666
-"Korea, Rep.",Machinery and equipment,-0.1864406779661017
-"Korea, Rep.",Management consultancy activities,0.2
-"Korea, Rep.",Membership organizations,0.23333333333333334
-"Korea, Rep.",Metal ores and non-metallic mining and quarrying,0.23333333333333334
+"Korea, Rep.","Electricity, gas and water supply",-0.23333333333333334
+"Korea, Rep.",Energy and water utilities,0.23333333333333334
+"Korea, Rep.",Financial and insurance activities,-0.2
+"Korea, Rep.",Fishing and aquaculture,-0.5333333333333333
+"Korea, Rep.","Food, beverages, and tobacco",0.4666666666666667
+"Korea, Rep.",Forestry and logging,-0.2
+"Korea, Rep.",Health and social work,0.13333333333333333
+"Korea, Rep.",Heavy and civil engineering construction,-0.4666666666666667
+"Korea, Rep.",Human health activities,0.15254237288135594
+"Korea, Rep.",Information and communication,0.43333333333333335
+"Korea, Rep.",Legal and accounting and management activities,-0.1
+"Korea, Rep.",Machinery and equipment,-0.01694915254237288
+"Korea, Rep.",Management consultancy activities,0.13333333333333333
+"Korea, Rep.",Membership organizations,0.4
+"Korea, Rep.",Metal ores and non-metallic mining and quarrying,-0.36666666666666664
 "Korea, Rep.",Monetary intermediation,-0.26666666666666666
 "Korea, Rep.","Motion picture, video, and television program prod",0.8
-"Korea, Rep.",Non-metallic mineral products,0.1
-"Korea, Rep.",Oil and gas extraction,-0.3
-"Korea, Rep.","Other community, social, and personal services",0.05084745762711865
-"Korea, Rep.",Other manufacturing,-0.1
-"Korea, Rep.",Other personal service activities,-0.1
-"Korea, Rep.","Other professional, scientific, and technical acti",0.3333333333333333
-"Korea, Rep.",Pharmaceuticals,0.13333333333333333
-"Korea, Rep.",Postal and courier activities,-0.288135593220339
-"Korea, Rep.","Professional, scientific, and technical activities",0.2
-"Korea, Rep.",Public administration and defense; compulsory soci,-0.5
-"Korea, Rep.","Public administration and defense; education, heal",0.16666666666666666
-"Korea, Rep.",Public administration and defense; financial and f,-0.3220338983050847
-"Korea, Rep.",Public administration and defense; other social se,0.2
-"Korea, Rep.",Publishing activities,0.2
-"Korea, Rep.",Railways,-0.4
-"Korea, Rep.",Real estate activities,-0.5254237288135594
-"Korea, Rep.",Repair of computers and personal and household goo,-0.6
-"Korea, Rep.",Residential care activities,-0.2
+"Korea, Rep.",Non-metallic mineral products,-0.2
+"Korea, Rep.",Oil and gas extraction,-0.3333333333333333
+"Korea, Rep.","Other community, social, and personal services",0.2542372881355932
+"Korea, Rep.",Other manufacturing,-0.06666666666666667
+"Korea, Rep.",Other personal service activities,0.1
+"Korea, Rep.","Other professional, scientific, and technical acti",0.2
+"Korea, Rep.",Pharmaceuticals,0.26666666666666666
+"Korea, Rep.",Postal and courier activities,-0.05084745762711865
+"Korea, Rep.","Professional, scientific, and technical activities",0.06666666666666667
+"Korea, Rep.",Public administration and defense; compulsory soci,-0.43333333333333335
+"Korea, Rep.","Public administration and defense; education, heal",0.23333333333333334
+"Korea, Rep.",Public administration and defense; financial and f,0.1864406779661017
+"Korea, Rep.",Public administration and defense; other social se,0.3333333333333333
+"Korea, Rep.",Publishing activities,0.3333333333333333
+"Korea, Rep.",Railways,-0.2
+"Korea, Rep.",Real estate activities,-0.0847457627118644
+"Korea, Rep.",Repair of computers and personal and household goo,-0.6333333333333333
+"Korea, Rep.",Residential care activities,-0.06666666666666667
 "Korea, Rep.","Retail trade, except of motor vehicles and motorcy",0.8333333333333334
-"Korea, Rep.",Road transport,-0.06666666666666667
-"Korea, Rep.",Rubber and plastics products,0.01694915254237288
-"Korea, Rep.",Social work activities without accommodation,-0.43333333333333335
-"Korea, Rep.",Telecommunications,0.06666666666666667
-"Korea, Rep.",Textiles and clothing,0.2
-"Korea, Rep.",Transport and storage,-0.3559322033898305
-"Korea, Rep.",Transport equipment,-0.2
-"Korea, Rep.",Water transport,-0.22033898305084745
+"Korea, Rep.",Road transport,0.0
+"Korea, Rep.",Rubber and plastics products,-0.05084745762711865
+"Korea, Rep.",Social work activities without accommodation,-0.3
+"Korea, Rep.",Telecommunications,0.2
+"Korea, Rep.",Textiles and clothing,0.13333333333333333
+"Korea, Rep.",Transport and storage,0.11864406779661017
+"Korea, Rep.",Transport equipment,-0.16666666666666666
+"Korea, Rep.",Water transport,0.05084745762711865
 "Korea, Rep.",Wholesale and retail trade and repair of motor veh,0.8333333333333334
 "Korea, Rep.","Wholesale trade, except of motor vehicles and moto",0.8666666666666667
-Singapore,Activities auxiliary to financial services and ins,-0.5666666666666667
-Singapore,Advertising and market research,0.5666666666666667
-Singapore,Agricultural crops and livestock,-0.1864406779661017
-Singapore,Air transport,0.3898305084745763
+Singapore,Activities auxiliary to financial services and ins,-0.6333333333333333
+Singapore,Advertising and market research,0.43333333333333335
+Singapore,Agricultural crops and livestock,-0.3220338983050847
+Singapore,Air transport,0.3220338983050847
 Singapore,"Architectural and engineering activities, and rela",0.8666666666666667
-Singapore,Basic metals and fabricated metal products,0.23333333333333334
-Singapore,Building construction,-0.3448275862068966
-Singapore,Chemicals and chemical products,-0.6666666666666666
-Singapore,Coal and lignite mining,0.3
-Singapore,"Computer programming, consultancy, and related act",-0.2542372881355932
-Singapore,Domestic and household services,-0.03333333333333333
+Singapore,Basic metals and fabricated metal products,0.3
+Singapore,Building construction,-0.1724137931034483
+Singapore,Chemicals and chemical products,-0.7333333333333333
+Singapore,Coal and lignite mining,0.2
+Singapore,"Computer programming, consultancy, and related act",0.288135593220339
+Singapore,Domestic and household services,0.03333333333333333
 Singapore,Education,0.2
-Singapore,"Electricity, gas and water supply",-0.5666666666666667
-Singapore,Energy and water utilities,0.1
-Singapore,Financial and insurance activities,-0.4
-Singapore,Fishing and aquaculture,-0.3333333333333333
-Singapore,"Food, beverages, and tobacco",0.5
+Singapore,"Electricity, gas and water supply",-0.3333333333333333
+Singapore,Energy and water utilities,-0.06666666666666667
+Singapore,Financial and insurance activities,-0.3333333333333333
+Singapore,Fishing and aquaculture,-0.2
+Singapore,"Food, beverages, and tobacco",0.4
 Singapore,Forestry and logging,0.26666666666666666
 Singapore,Health and social work,-0.06666666666666667
-Singapore,Heavy and civil engineering construction,-0.23333333333333334
+Singapore,Heavy and civil engineering construction,-0.43333333333333335
 Singapore,Human health activities,0.4
-Singapore,Information and communication,0.5333333333333333
+Singapore,Information and communication,0.6333333333333333
 Singapore,Legal and accounting and management activities,0.23333333333333334
-Singapore,Machinery and equipment,-0.3
-Singapore,Management consultancy activities,0.2
-Singapore,Membership organizations,0.26666666666666666
-Singapore,Metal ores and non-metallic mining and quarrying,0.5
-Singapore,Monetary intermediation,-0.26666666666666666
-Singapore,"Motion picture, video, and television program prod",0.9666666666666667
-Singapore,Non-metallic mineral products,0.13333333333333333
-Singapore,Oil and gas extraction,-0.6271186440677966
+Singapore,Machinery and equipment,-0.23333333333333334
+Singapore,Management consultancy activities,0.13333333333333333
+Singapore,Membership organizations,0.23333333333333334
+Singapore,Metal ores and non-metallic mining and quarrying,-0.13333333333333333
+Singapore,Monetary intermediation,-0.23333333333333334
+Singapore,"Motion picture, video, and television program prod",1.0
+Singapore,Non-metallic mineral products,-0.2
+Singapore,Oil and gas extraction,-0.6610169491525424
 Singapore,"Other community, social, and personal services",0.06666666666666667
-Singapore,Other manufacturing,-0.2542372881355932
+Singapore,Other manufacturing,-0.3220338983050847
 Singapore,Other personal service activities,0.3333333333333333
-Singapore,"Other professional, scientific, and technical acti",0.5
-Singapore,Pharmaceuticals,0.3333333333333333
-Singapore,Postal and courier activities,0.2
-Singapore,"Professional, scientific, and technical activities",0.4576271186440678
-Singapore,Public administration and defense; compulsory soci,-0.5666666666666667
-Singapore,"Public administration and defense; education, heal",0.2542372881355932
-Singapore,Public administration and defense; financial and f,0.13333333333333333
-Singapore,Public administration and defense; other social se,0.4
+Singapore,"Other professional, scientific, and technical acti",0.4666666666666667
+Singapore,Pharmaceuticals,0.3
+Singapore,Postal and courier activities,-0.03333333333333333
+Singapore,"Professional, scientific, and technical activities",0.3898305084745763
+Singapore,Public administration and defense; compulsory soci,-0.6333333333333333
+Singapore,"Public administration and defense; education, heal",0.1864406779661017
+Singapore,Public administration and defense; financial and f,0.03333333333333333
+Singapore,Public administration and defense; other social se,0.16666666666666666
 Singapore,Publishing activities,0.288135593220339
-Singapore,Railways,-0.13333333333333333
-Singapore,Real estate activities,0.034482758620689655
-Singapore,Repair of computers and personal and household goo,-0.36666666666666664
-Singapore,Residential care activities,0.1864406779661017
+Singapore,Railways,-0.03333333333333333
+Singapore,Real estate activities,-0.06896551724137931
+Singapore,Repair of computers and personal and household goo,-0.4666666666666667
+Singapore,Residential care activities,0.0847457627118644
 Singapore,"Retail trade, except of motor vehicles and motorcy",0.7
-Singapore,Road transport,0.4666666666666667
-Singapore,Rubber and plastics products,0.03333333333333333
+Singapore,Road transport,0.5
+Singapore,Rubber and plastics products,-0.2
 Singapore,Social work activities without accommodation,0.0
-Singapore,Telecommunications,0.16666666666666666
-Singapore,Textiles and clothing,0.3
+Singapore,Telecommunications,0.0
+Singapore,Textiles and clothing,0.13333333333333333
 Singapore,Transport and storage,0.43333333333333335
-Singapore,Transport equipment,0.26666666666666666
+Singapore,Transport equipment,0.23333333333333334
 Singapore,Water transport,0.03333333333333333
 Singapore,Wholesale and retail trade and repair of motor veh,0.8333333333333334
 Singapore,"Wholesale trade, except of motor vehicles and moto",0.9333333333333333
 United States,Activities auxiliary to financial services and ins,-0.6666666666666666
-United States,Advertising and market research,0.3333333333333333
-United States,Agricultural crops and livestock,-0.1864406779661017
-United States,Air transport,-0.26666666666666666
-United States,"Architectural and engineering activities, and rela",0.6333333333333333
-United States,Basic metals and fabricated metal products,-0.22033898305084745
-United States,Building construction,-0.3333333333333333
-United States,Chemicals and chemical products,-0.034482758620689655
-United States,Coal and lignite mining,0.4666666666666667
-United States,"Computer programming, consultancy, and related act",0.13333333333333333
+United States,Advertising and market research,0.19298245614035087
+United States,Agricultural crops and livestock,-0.3220338983050847
+United States,Air transport,-0.36666666666666664
+United States,"Architectural and engineering activities, and rela",0.6
+United States,Basic metals and fabricated metal products,-0.15254237288135594
+United States,Building construction,-0.26666666666666666
+United States,Chemicals and chemical products,-0.2413793103448276
+United States,Coal and lignite mining,0.6333333333333333
+United States,"Computer programming, consultancy, and related act",0.16666666666666666
 United States,Domestic and household services,-0.15254237288135594
-United States,Education,0.03333333333333333
-United States,"Electricity, gas and water supply",-0.1724137931034483
-United States,Energy and water utilities,-0.23333333333333334
-United States,Financial and insurance activities,-0.5333333333333333
+United States,Education,-0.06666666666666667
+United States,"Electricity, gas and water supply",-0.4482758620689655
+United States,Energy and water utilities,-0.3
+United States,Financial and insurance activities,-0.6666666666666666
 United States,Fishing and aquaculture,0.034482758620689655
-United States,"Food, beverages, and tobacco",0.3793103448275862
-United States,Forestry and logging,-0.3333333333333333
-United States,Health and social work,0.0
-United States,Heavy and civil engineering construction,-0.0847457627118644
-United States,Human health activities,0.5
-United States,Information and communication,0.3
-United States,Legal and accounting and management activities,-0.1
-United States,Machinery and equipment,-0.22807017543859648
-United States,Management consultancy activities,0.05084745762711865
-United States,Membership organizations,0.0847457627118644
-United States,Metal ores and non-metallic mining and quarrying,0.1
-United States,Monetary intermediation,-0.13333333333333333
-United States,"Motion picture, video, and television program prod",0.5666666666666667
-United States,Non-metallic mineral products,-0.13333333333333333
-United States,Oil and gas extraction,-0.16666666666666666
-United States,"Other community, social, and personal services",0.2
-United States,Other manufacturing,0.11864406779661017
-United States,Other personal service activities,-0.05084745762711865
+United States,"Food, beverages, and tobacco",0.1724137931034483
+United States,Forestry and logging,-0.2
+United States,Health and social work,-0.06666666666666667
+United States,Heavy and civil engineering construction,-0.3559322033898305
+United States,Human health activities,0.36666666666666664
+United States,Information and communication,0.23333333333333334
+United States,Legal and accounting and management activities,-0.13333333333333333
+United States,Machinery and equipment,-0.2982456140350877
+United States,Management consultancy activities,-0.15254237288135594
+United States,Membership organizations,-0.01694915254237288
+United States,Metal ores and non-metallic mining and quarrying,-0.4666666666666667
+United States,Monetary intermediation,0.0
+United States,"Motion picture, video, and television program prod",0.7
+United States,Non-metallic mineral products,-0.4
+United States,Oil and gas extraction,-0.43333333333333335
+United States,"Other community, social, and personal services",0.1
+United States,Other manufacturing,-0.2542372881355932
+United States,Other personal service activities,-0.1864406779661017
 United States,"Other professional, scientific, and technical acti",0.26666666666666666
-United States,Pharmaceuticals,0.16666666666666666
-United States,Postal and courier activities,0.03333333333333333
-United States,"Professional, scientific, and technical activities",0.36666666666666664
+United States,Pharmaceuticals,0.2
+United States,Postal and courier activities,-0.23333333333333334
+United States,"Professional, scientific, and technical activities",0.4
 United States,Public administration and defense; compulsory soci,-0.5333333333333333
-United States,"Public administration and defense; education, heal",0.26666666666666666
-United States,Public administration and defense; financial and f,-0.3
-United States,Public administration and defense; other social se,0.3333333333333333
-United States,Publishing activities,0.26666666666666666
-United States,Railways,-0.36666666666666664
-United States,Real estate activities,-0.13333333333333333
-United States,Repair of computers and personal and household goo,-0.3898305084745763
-United States,Residential care activities,0.0
-United States,"Retail trade, except of motor vehicles and motorcy",0.7333333333333333
+United States,"Public administration and defense; education, heal",0.23333333333333334
+United States,Public administration and defense; financial and f,-0.26666666666666666
+United States,Public administration and defense; other social se,0.2
+United States,Publishing activities,0.13333333333333333
+United States,Railways,-0.5
+United States,Real estate activities,-0.16666666666666666
+United States,Repair of computers and personal and household goo,-0.3559322033898305
+United States,Residential care activities,0.034482758620689655
+United States,"Retail trade, except of motor vehicles and motorcy",0.7666666666666667
 United States,Road transport,-0.2
-United States,Rubber and plastics products,-0.10344827586206896
-United States,Social work activities without accommodation,-0.3
-United States,Telecommunications,0.23333333333333334
-United States,Textiles and clothing,0.2
+United States,Rubber and plastics products,-0.3448275862068966
+United States,Social work activities without accommodation,-0.26666666666666666
+United States,Telecommunications,0.2
+United States,Textiles and clothing,0.16666666666666666
 United States,Transport and storage,-0.23333333333333334
-United States,Transport equipment,-0.16666666666666666
-United States,Water transport,-0.26666666666666666
+United States,Transport equipment,-0.23333333333333334
+United States,Water transport,-0.3333333333333333
 United States,Wholesale and retail trade and repair of motor veh,0.7
-United States,"Wholesale trade, except of motor vehicles and moto",0.8983050847457628
+United States,"Wholesale trade, except of motor vehicles and moto",0.9322033898305084

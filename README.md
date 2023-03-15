@@ -1,12 +1,16 @@
-# Final-Project
+# PESTEL-Driven Investment Insights: Evaluating Macroeconomic Factors Across Industries and Countries for Strategic Decision-Making
 
 ### [Results of the Project](https://public.tableau.com/views/Final-Project_16780679054800/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Summary
+
+### This project identified top investment countries using GDP, growth rate, and ease of doing business scores. It also analyzed thriving industries, PESTEL factors, and news sentiment. By utilizing data processing and machine learning algorithms, the project provided valuable insights for potential investors, guiding investment decisions and offering a comprehensive understanding of various countries and industries. This serves as a strong foundation for future analysis and informed decision-making
 
 ## Status
 
 #### The current status of the project is minimum viable product stage, but it is working perfectly.
 
-#### Although the project is still in its early stages, it is working perfectly and meets all the initial requirements. I am continuing to refine and improve the analysis as I gather more data and feedback. I am confident that the final product will provide valuable insights and meet the project objectives.
+#### While the project is currently in its early stages, it has been functioning seamlessly and fulfills all initial requirements. As we progress, the focus will be on refining and enhancing the analysis by incorporating additional data and feedback. This ongoing development will ensure that the final outcome delivers significant insights and successfully achieves the project objectives.
 
 ## Selected topic
 
@@ -70,7 +74,7 @@
 #### 2. Evaluate the GDP growth (annual %) of the last 6 years from 2021 for all the countries and keep the top 25.
 #### 3. Merge both tables and keep the countries that are in both.
 #### 4. Obtain Ease of doing business score (0 = lowest performance to 100 = best performance) from the World Bank database and keep only the countries with a score greater than 77.
-#### 5. Merge the databases again to only keep the top 3 countries evaluating these three characteristics.
+#### 5. Merge the databases again to only keep the top 4 countries evaluating these three characteristics.
 #### 6. Choose all the industries that currently exist according to the World Bank.
 #### 7. Create a database that makes all the combinations between the chosen countries, the existing industries and the categories to study PESTEL (political, economic, social, technological, environmental and legal).
 #### 8. Use the Bing API to get the most relevant and current news related to the country, industry and category to study.
@@ -79,14 +83,6 @@
 #### 11. Categorize the news and calculate an overall health score for each aspect of PESTEL for each industry and each country.
 #### 12. Send the output of the data processing in python to the database to be compiled in Tableu.
 #### 13. Use Tableau to display the results in graphs and a matrix that shows the industries by country with the score obtained in each aspect of the PESTEL and a general score.
-
-## Communication Protocols:
-
-#### The communication between the various components of the project likely involves API calls, such as the Bing Search V7 API, to retrieve and process data from various sources. The data is then processed using Python programming language, and the results are visualized using Tableau.
-
-#### As the sole member of this project, I will communicate with myself through a project management tool (e.g., Trello) to keep track of tasks, deadlines, and progress. I will also maintain a daily log to record my thoughts, observations, and insights as I work on the project.
-
-#### As the only person working on this project, I have established communication protocols with myself to ensure that I can complete the project on time. I have set goals and deadlines for each phase of the project and I have been tracking my progress regularly. Whenever I face any challenges or have questions, I document them and find solutions by conducting research and consulting relevant resources. Additionally, I prioritize my tasks based on their urgency and importance and I make sure to take breaks and maintain a healthy work-life balance to avoid burnout. Through these protocols, I am confident that I can successfully complete the project within the given timeframe.
 
 ## Conclusion:
 
@@ -104,13 +100,17 @@
 
 #### Selection of countries that belong to the top 25 of GDP and its growth and that are countries where it is easy to do business
 
-##### This is a selection process of countries that fulfill certain criteria. Specifically, the selected countries must be among the top 25 in terms of GDP and GDP growth. Additionally, they must be countries where it is easy to do business. This selection process aims to identify countries that have a strong economic performance and are also conducive to business development.
+##### This is a selection process of countries that fulfill certain criteria. Specifically, the selected countries must be among the top 25 in terms of GDP and GDP growth. Additionally, they must be countries where it is easy to do business. This selection process aims to identify 4 countries that have a strong economic performance and are also conducive to business development.
+
+##### Which resulted in the following countries:
 
 ![1](https://github.com/jjgomezg17/Final-Project/blob/main/Images/1.png)
 
 #### PESTEL Analysis by Country and Sector
 
 ##### This is a project that involves conducting a PESTEL analysis for different countries and sectors. PESTEL stands for Political, Economic, Social, Technological, Environmental, and Legal factors that can affect the business environment of a country or a sector. The analysis will be conducted on various countries and sectors, and the sentiment of the news articles will be added to the analysis to see the score by each country and sector on each section of the analysis. The aim is to provide insights into the business environment of each country and sector and identify areas of opportunity or potential risk.
+
+##### It is crucial to emphasize that conducting a thorough analysis of each component of PESTEL for every industry in each country can yield valuable insights. Individual industries may not have the best scores in every PESTEL factor, but when compared across countries, a more favorable business environment may emerge for a particular industry in a specific location.
 
 ![2](https://github.com/jjgomezg17/Final-Project/blob/main/Images/2.png)
 
@@ -120,7 +120,29 @@
 
 ##### By analyzing the sentiment of the news articles related to each country and industry, we can evaluate the overall impact of these factors on the industry in that country. The sentiment is then averaged for each section of the PESTEL analysis (political, economic, social, technological, environmental, and legal) to create an overall score.
 
-
 ##### This overall score helps to identify which countries and industries are more favorable for business and investment opportunities, based on the PESTEL factors that affect them.
 
+##### It is important to recognize that the real value this project offers lies not just in identifying the best and worst industries in each of the four countries, but also in examining the differences between countries for each individual industry. This approach allows for a deeper understanding of the current business environment within each country and helps to identify industries with a more favorable outlook in specific locations.
+
 ![3](https://github.com/jjgomezg17/Final-Project/blob/main/Images/3.png)
+
+##### The utility of this tool is highly dependent on the individual user, as the relevance of the results will vary based on their specific industry of interest or the country they are considering for expansion. Consequently, the insights gained from the tool will be tailored to the unique needs and preferences of each user.
+
+###### From the training dataset, the following observations can be made:
+
+###### The model has an accuracy of 0.78, meaning it accurately predicts the outcomes in 78% of cases. To better understand the model's performance, we can refer to the confusion matrix provided:
+
+###### Confusion Matrix:
+
+###### [[True Positives (TP)  121788, False Positives (FP)  37708], [False Negatives (FN)  32530, True Negatives (TN)  127974]]
+
+###### From the confusion matrix, we can observe the following:
+
+###### True Positives (TP): 121,788 instances where the model correctly predicted positive outcomes.
+
+###### False Positives (FP): 37,708 instances where the model falsely predicted positive outcomes.
+
+###### False Negatives (FN): 32,530 instances where the model falsely predicted negative outcomes.
+
+###### True Negatives (TN): 127,974 instances where the model correctly predicted negative outcomes.
+
